@@ -1,0 +1,17 @@
+body{
+	text-align: center;
+	background-image: url("data/barnh.PNG");
+	background-size: cover;
+	color: white;
+	font-family: 'Baskervville', serif;
+}
+
+h1{
+	border-left: 6px solid white;
+    background-color: lightgrey;
+}
+
+h2{
+	border-left: 6px solid white;
+    background-color: lightgrey;
+}
